@@ -1,4 +1,4 @@
-# Rimer-Finance
+# Rimer-Finance solidity bep-20 token/ solidity version: 0.8.12+commit.f00d7308
 # I am the deploer of a new token with a new code, so i make it open source too protect that I am owner of Token code
 # best token
 # code/:
