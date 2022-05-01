@@ -2,6 +2,12 @@
 # I am the deploer of a new token with a new code, so i make it open source too protect that I am owner of Token code
 # best token with high fixed apr%%%
 # I am the code Deployer!!! telegram: @Da_pshen, @rootoo_coin; Telegram group/chanel: https://t.me/rimer_finance_ru, https://t.me/rimer_finance; Instagram: @da_pshen
+# tokenomiks:
+# Start Supply: 100 000 000
+# decimal: 18
+# Staking: hour/0.01% day/0.24% month/7.2% year/87.6%
+# Fee: 5% per transaction
+# No Mint, BlackList, ChangeFees, ChangeApr Functions!!! All safest token!!!
 # code/:
 
 /**
