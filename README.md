@@ -1,7 +1,7 @@
 # Rimer-Finance solidity bep-20 token/ solidity version: 0.8.12+commit.f00d7308
 # I am the deploer of a new token with a new code, so i make it open source too protect that I am owner of Token code
 # best token with high fixed apr%%%
-# I am the code Deployer!!! telegram: @Da_pshen, @rootoo_coin; Instagram: @da_pshen
+# I am the code Deployer!!! telegram: @Da_pshen, @rootoo_coin; Telegram group/chanel: https://t.me/rimer_finance_ru, https://t.me/rimer_finance; Instagram: @da_pshen
 # code/:
 
 /**
